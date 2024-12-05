@@ -2,6 +2,12 @@
 name = "alloy-encode-packed"
 version = "0.1.0"
 edition = "2021"
+homepage = "https://github.com/ennea8/alloy-encode-packed"
+license = "MIT"
+authors = ["Ennea8 <ennea8@gmail.com>"]
+keywords = ["ethereum", "eth", "abi", "solidity"]
+description = "Easy to use replica of Solidity abi.encodePacked."
+
 
 [dependencies]
 alloy = "0.7.3"
