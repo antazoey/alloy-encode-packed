@@ -5,7 +5,7 @@ edition = "2021"
 homepage = "https://github.com/ennea8/alloy-encode-packed"
 license = "MIT"
 authors = ["Ennea8 <ennea8@gmail.com>"]
-keywords = ["ethereum", "eth", "abi", "solidity"]
+keywords = ["ethereum", "eth", "abi", "solidity", "alloy"]
 description = "Easy to use replica of Solidity abi.encodePacked."
 
 
