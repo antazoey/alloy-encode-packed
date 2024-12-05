@@ -1,0 +1,8 @@
+[package]
+name = "alloy-encode-packed"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+alloy = "0.7.3"
+hex = "0.4.3"
