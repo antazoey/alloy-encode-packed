@@ -10,5 +10,5 @@ description = "Easy to use replica of Solidity abi.encodePacked."
 
 
 [dependencies]
-alloy = "0.7.3"
+alloy = "0.14.0"
 hex = "0.4.3"
